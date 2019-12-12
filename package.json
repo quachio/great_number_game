@@ -1,0 +1,22 @@
+{
+  "name": "great_number_game",
+  "version": "1.0.0",
+  "description": "Great Number Game Assignemtn: Coding Dojo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quachio/great_number_game.git"
+  },
+  "author": "Hung Quach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quachio/great_number_game/issues"
+  },
+  "homepage": "https://github.com/quachio/great_number_game#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
